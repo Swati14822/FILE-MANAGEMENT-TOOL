@@ -62,4 +62,4 @@ This project successfully implements basic file handling techniques in C++. It r
 The project lays the foundation for more advanced applications involving file manipulation, such as log generation, configuration file management, and basic database systems.
 
 OUTPUT
-
+![Image](https://github.com/user-attachments/assets/5c7dbd2f-3cb6-429e-a4cc-216489efdd5e)
