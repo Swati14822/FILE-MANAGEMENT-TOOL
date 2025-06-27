@@ -60,3 +60,6 @@ Error handling is included to manage scenarios such as failure to open files, en
 This project successfully implements basic file handling techniques in C++. It reinforces the understanding of file streams, modes of operation (read, write, append), and stream handling best practices. Through this application, users gain practical experience with persistent data storage, a crucial skill in real-world software development.
 
 The project lays the foundation for more advanced applications involving file manipulation, such as log generation, configuration file management, and basic database systems.
+
+OUTPUT
+
